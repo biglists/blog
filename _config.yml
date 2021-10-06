@@ -42,6 +42,8 @@ paginate:  9
 defaults:
   - scope:
       path: '_pages'
+    values:
+      permalink: /:basename:output_ext
 
 # Exclude from processing.
 # The following items will not be processed, by default.
