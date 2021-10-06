@@ -30,7 +30,7 @@ twitter_username: viralus
 github_username:  viralus
 
 # Build settings
-remote_theme: viralus/aspire
+theme: minima
 plugins:
   - jekyll-feed
 
