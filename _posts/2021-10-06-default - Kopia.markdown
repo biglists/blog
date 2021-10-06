@@ -5,13 +5,9 @@ date:   2021-10-06 11:02:58 +0200
 categories: jekyll update
 ---
 
-<h1>'They spent my entire bank balance in one night!' Twitter users are shocked by diner's £1,812 meal for four at Salt Bae's London restaurant - including the £630 gold leaf steak, £12 sweetcorn and a £9 COKE</h1>
-
-<ul>
-<li>A customer receipt from Nusr-Et Steakhouse in London has gone viral on Twitter<li>
-<li>Users have admitted they are shocked by the cost of dishes and service charge</li>
-<li>Receipt shows a can of Red Bull costs £11, while main dishes cost up to £700</li>
-</ul>
+* A customer receipt from Nusr-Et Steakhouse in London has gone viral on Twitter
+* Users have admitted they are shocked by the cost of dishes and service charge
+* Receipt shows a can of Red Bull costs £11, while main dishes cost up to £700
 
 A customer's receipt from Nusr-Et Steakhouse has gone viral on social media after totalling a staggering £1,812.40 - with a single steak priced at £630 and just four Red Bulls costing £44.
 
