@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class='o-wrapper'>
+<!-- <div class='o-wrapper'>
   <div class='o-grid js-grid'>
     {% for post in paginator.posts %}
       {% include post-card.html %}
@@ -12,4 +12,4 @@ layout: default
   <div class='o-grid'>
     {% include pagination.html %}
   </div>
-</div>
+</div> -->
