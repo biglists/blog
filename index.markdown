@@ -1,6 +1,15 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
 ---
+
+<div class='o-wrapper'>
+  <div class='o-grid js-grid'>
+    {% for post in paginator.posts %}
+      {% include post-card.html %}
+    {% endfor %}
+  </div>
+
+  <div class='o-grid'>
+    {% include pagination.html %}
+  </div>
+</div>
