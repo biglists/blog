@@ -10,7 +10,9 @@ layout: default
   <meta itemprop='og:image' content='{{ base_path }}{{ page.image }}'>
 {% endif %}
 
-<div class='c-post-hero' style='background-image: url({{ page.image | prepend: site.baseurl }})'></div>
+<div class="o-grid js-grid">
+  <div class='c-post-hero' style='background-image: url({{ page.image | prepend: site.baseurl }})'></div>
+</div>
 
 <div class='o-wrapper'>
 
