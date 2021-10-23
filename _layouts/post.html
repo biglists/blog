@@ -18,6 +18,17 @@ layout: default
     <div class='o-grid__col o-grid__col--2-3-m'>
       <article class='c-post' itemscope itemtype='http://schema.org/BlogPosting'>
 
+        <div class='o-grid'>
+          <div class='o-grid__col o-grid__col--full'>
+
+            {{ page.shares }} shares
+
+            {% include share.html %}
+          </div>
+        </div>
+
+        <hr>
+
         <time class='c-post__date' datetime='{{ page.date | date_to_xmlschema }}' itemprop='datePublished'>{{ page.date | date: '%d %b %Y' }}</time>
 
         <h2 class='c-post__title'>{{ page.title }}</h2>
@@ -30,12 +41,6 @@ layout: default
           {% for tag in page.tags %}
             <a href='{{ site.baseurl }}/tag/{{ tag }}'>{{ tag }}</a>
           {% endfor %}
-        </div>
-
-        <div class='o-grid'>
-          <div class='o-grid__col o-grid__col--full'>
-            {% include share.html %}
-          </div>
         </div>
 
         <hr>

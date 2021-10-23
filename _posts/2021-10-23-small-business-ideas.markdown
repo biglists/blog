@@ -4,6 +4,7 @@ title:  "54 Small Business Ideas for Anyone Who Wants to Run Their Own Business"
 date:   2021-10-23 11:02:58 +0200
 categories: sales
 image: /images/posts/small-business-ideas.jpg
+shares: 1707
 ---
 
 Airbnb Co-founder, Brian Chesky, said, "If we tried to think of a good idea, we wouldn’t have been able to think of a good idea. You just have to find the solution for a problem in your own life."
