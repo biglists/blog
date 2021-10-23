@@ -241,6 +241,7 @@ Dog Walker, Groomer, or Trainer
 Licensing and insurance will be the two most important factors in opening a dog walking, grooming, or training business, but your canine colleagues will surely make up for the initial red tape. To test the waters before jumping in, consider walking dogs through companies like Rover. Ready to run your own show? Consider a franchise like Dogtopia.
 
 Home Business Ideas
+=======
 These home business ideas give you a few more business options that are either based at home or online.
 
 Coding
