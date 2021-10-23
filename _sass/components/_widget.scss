@@ -34,3 +34,14 @@
     font-size: 22px;
     font-weight: 300;
 }
+
+.c-widget-long__button {
+  border: 2px solid rgba(255,255,255,.8);
+  border-radius: 60px;
+  text-transform: uppercase;
+  padding: 10px 30px 10px 34px;
+  font-weight: 700;
+  color: rgba(255,255,255,.85) !important;
+  margin-top: 25px;
+  float: right;
+}
