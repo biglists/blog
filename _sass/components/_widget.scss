@@ -24,10 +24,11 @@
     border-radius: 4px;
     padding: 0 30px;
     margin: 20px 0;
+    display: flex;
 }
 
 .c-widget-long-inner {
-  padding: 10px 0;
+    padding: 10px 0;
     color: #fff;
     line-height: 38px;
     margin: 0;
@@ -43,7 +44,6 @@
   font-weight: 700;
   color: rgba(255,255,255,.85) !important;
   margin-top: 25px;
-  float: right;
   transition: all ease 0.35s;
   -webkit-transition: all ease 0.35s;
   -moz-transition: all ease 0.35s;
