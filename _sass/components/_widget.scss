@@ -25,7 +25,8 @@
     padding: 0 30px;
     margin: 20px 0;
     display: flex;
-    flex-flow: wrap;
+    flex-flow: nowrap;
+    flex-direction: row-reverse;
     align-items: center;
 }
 
