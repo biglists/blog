@@ -44,4 +44,12 @@
   color: rgba(255,255,255,.85) !important;
   margin-top: 25px;
   float: right;
+  transition: all ease 0.35s;
+  -webkit-transition: all ease 0.35s;
+  -moz-transition: all ease 0.35s;
+}
+
+.c-widget-long__button:hover {
+  background: #fff;
+  color: #000 !important;
 }
