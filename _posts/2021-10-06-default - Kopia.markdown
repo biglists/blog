@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2021-10-06 11:02:58 +0200
 categories: jekyll update
+image: texty.jpg
 ---
 
 * A customer receipt from Nusr-Et Steakhouse in London has gone viral on Twitter
