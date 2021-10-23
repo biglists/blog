@@ -2,7 +2,7 @@
 layout: post
 title:  "54 Small Business Ideas for Anyone Who Wants to Run Their Own Business"
 date:   2021-10-23 11:02:58 +0200
-categories: jekyll update
+categories: sales
 image: /images/posts/small-business-ideas.jpg
 ---
 
