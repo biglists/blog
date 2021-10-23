@@ -17,3 +17,21 @@
     text-transform: uppercase;
   }
 }
+
+.c-widget-long {
+  background: linear-gradient(
+90deg,#d31027,#ea384d);
+    border-radius: 4px;
+    padding: 0 30px;
+    margin: 20px 0;
+    box-shadow: 1px 1px 6px 1px hsl(0deg 0% 80% / 70%);
+}
+
+.c-widget-long-inner {
+  padding: 10px 0;
+    color: #fff;
+    line-height: 38px;
+    margin: 0;
+    font-size: 22px;
+    font-weight: 300;
+}
