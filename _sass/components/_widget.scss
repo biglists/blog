@@ -29,20 +29,6 @@
     align-items: center;
 }
 
-@media (max-width: 1200px) {
-  .c-widget-long {
-    flex-direction: column;
-    padding: 1em;
-    align-items: baseline;
-  }
-
-  .c-widget-long__button {
-    flex: 1 0 100%;
-    padding: 10px;
-    align-self: center;
-  }
-}
-
 .c-widget-long-inner {
     padding: 10px 0;
     color: #fff;
@@ -71,4 +57,18 @@
 .c-widget-long__button:hover {
   background: #fff;
   color: #000 !important;
+}
+
+@media (max-width: 1200px) {
+  .c-widget-long {
+    flex-direction: column;
+    padding: 1em;
+    align-items: baseline;
+  }
+
+  .c-widget-long__button {
+    flex: 1 0 100%;
+    padding: 10px;
+    align-self: center;
+  }
 }
