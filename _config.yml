@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Viral.us - Viral stories and tutorials from all around the world.
-email: your-email@example.com
+title: Big lists - lists from all around the world.
+email: lists@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Viral stories and tutorials from all around the world.
+  Marketing agency based in Poland.
 baseurl: /blog # the subpath of your site, e.g. /blog
 logo: /blog/images/general/logo.png
-url: http://viralus.github.io # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: viralus
-github_username:  viralus
+url: http://biglists.github.io # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: biglists
+github_username:  biglists
 
 # Build settings
 theme: minima
