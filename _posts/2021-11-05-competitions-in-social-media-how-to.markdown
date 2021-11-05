@@ -19,11 +19,11 @@ Is it worth organizing social media contests?
 
 Here are the benefits your brand will benefit from. First of all, it is worth starting with what benefits can be brought to your brand by organizing a competition on social media. They are mainly:
 
-*greater scope of content - competitions are liked, shared and commented on, thanks to which they reach a wide audience;
-*promoting a specific product - if you are introducing a novelty to the market or you want to make public about a product already in the offer, it is a good idea to organize a competition in which it will be a prize or its purchase will be one of the conditions for participation (more on this in moment);
-*increasing engagement - in social media, contests are the type of content that generates the most audience responses, so you can organize them to stimulate your fans to be more active;
-*increasing the motivation of fans to carefully observe the website - if your contests on Facebook or Instagram will appear regularly, the recipients will be more motivated to interact with the website more often and be up to date with its publications;
-*obtaining UGC, i.e. User Generated Content - in contests, you can ask to take and publish photos that can later be used by the brand, e.g. in the form of a repost on Instagram.
+* greater scope of content - competitions are liked, shared and commented on, thanks to which they reach a wide audience;
+* promoting a specific product - if you are introducing a novelty to the market or you want to make public about a product already in the offer, it is a good idea to organize a competition in which it will be a prize or its purchase will be one of the conditions for participation (more on this in moment);
+* increasing engagement - in social media, contests are the type of content that generates the most audience responses, so you can organize them to stimulate your fans to be more active;
+* increasing the motivation of fans to carefully observe the website - if your contests on Facebook or Instagram will appear regularly, the recipients will be more motivated to interact with the website more often and be up to date with its publications;
+* obtaining UGC, i.e. User Generated Content - in contests, you can ask to take and publish photos that can later be used by the brand, e.g. in the form of a repost on Instagram.
 It is also a chance to make the product available for testing to those who may not know it yet - if they like it, they can buy another one on their own.
 
 Organizing a competition in social media - start by defining the purpose of your brand
@@ -40,8 +40,8 @@ Competition in social media - how to come up with and choose a competition task?
 
 Now that you know your goal, it's time to come up with a task to help you achieve it. Social media contests can be divided into two main types:
 
-*- competition with a low entry threshold,
-*- competition with a high entry threshold.
+* - competition with a low entry threshold,
+* - competition with a high entry threshold.
 
 A competition with a low entry threshold is one in which you require little involvement from the user - e.g. to complete a sentence or answer a simple competition question. It is characterized by a large number of comments and shares, because participation in it takes up to a few minutes.
 
@@ -54,11 +54,11 @@ Good and bad ideas for a task in a competition in social media
 
 Here are some examples of task ideas:
 
-*coming up with a creative advertising slogan for a product or company,
-*creating an original meme,
-*providing a creative answer to the question,
-*telling a story related to the brand or its product,
-*creative completion of the sentence, e.g. If I did not have to work, then ...
+* coming up with a creative advertising slogan for a product or company,
+* creating an original meme,
+* providing a creative answer to the question,
+* telling a story related to the brand or its product,
+* creative completion of the sentence, e.g. If I did not have to work, then ...
 
 The word creative appears in tasks for a reason - it is often the criterion by which the participants' responses are assessed and the winners of social media competitions are selected on its basis. It is such a fluid and capacious concept that it almost eliminates it
 
@@ -68,13 +68,13 @@ A competition organized in social media should primarily comply with Facebook's 
 
 A competition in social media should have its own rules, which include the following data:
 
-*- information about the organizer and founder of the awards,
-*- start and end date of the competition,
-*- rules for taking part in the competition,
-*- information about the prizes (their type, number and method of delivery),
-*- criteria for selecting the winner,
-*- complaint rules,
-*- privacy policy.
+* - information about the organizer and founder of the awards,
+* - start and end date of the competition,
+* - rules for taking part in the competition,
+* - information about the prizes (their type, number and method of delivery),
+* - criteria for selecting the winner,
+* - complaint rules,
+* - privacy policy.
 
 It is worth commissioning a lawyer to prepare the rules of the competition in social media. You can do it once and use the template developed by him for a long time, updated of course with the rules of a specific competition.
 
@@ -120,12 +120,12 @@ The selection of awards in the competition is also an important element of its o
 
 The prize in the competition may be:
 
-*- your brand product (new or existing),
-*- a voucher to be used in your store or other stores that allow shopping with gift vouchers,
-*- access to a course, training or other digital content,
-*- a set of company accessories (but not lanyards and pens, such as branded thermal mugs or reusable containers),
-*- ticket or invitation to the event,
-*- a voucher to be used in a restaurant, workshops or consultations.
+* - your brand product (new or existing),
+* - a voucher to be used in your store or other stores that allow shopping with gift vouchers,
+* - access to a course, training or other digital content,
+* - a set of company accessories (but not lanyards and pens, such as branded thermal mugs or reusable containers),
+* - ticket or invitation to the event,
+* - a voucher to be used in a restaurant, workshops or consultations.
 
 Competition in social media and tax
 -----------
