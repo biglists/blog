@@ -7,9 +7,6 @@ image: /images/posts/competition-social-media.jpg
 shares: 1112
 ---
 
-COMPETITIONS IN SOCIAL MEDIA - HOW TO ORGANIZE AND PROMOTE COMPETITIONS ON FACEBOOK OR INSTAGRAM?
-=======
-
 Organizing a social media contest can bring your brand many benefits - provided you do it wisely. How to run a competition on Facebook or Instagram to generate great interest and bring benefits to the brand? You will find some hints in the article!
 
 You might be interested in the fact that many brands organize such contests in social media for their fans and you want to try it as well. From our post, you will learn how to conduct a competition on Facebook or Instagram that is legal under Polish law, what competition task will best meet your brand's goal and how to promote the competition to reach the largest possible group of potential participants. Check!
