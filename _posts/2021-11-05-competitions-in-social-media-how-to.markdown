@@ -3,7 +3,7 @@ layout: post
 title:  "COMPETITIONS IN SOCIAL MEDIA - HOW TO ORGANIZE AND PROMOTE COMPETITIONS ON FACEBOOK OR INSTAGRAM?"
 date:   2021-11-05 12:02:58 +0200
 categories: sales
-image: /images/posts/small-business-ideas.jpg
+image: /images/posts/competition-social-media.jpg
 shares: 1112
 ---
 
@@ -91,21 +91,29 @@ How to promote the contest on social media?
 You already know the goals for organizing contests in social media, you know how to formulate a task and what to include in the regulations. It's time to talk about distribution, another important factor that has a significant impact on results. How to promote the contest on Facebook or Instagram so that it reaches as many potential participants as possible?
 
 1 Promotion of the competition using advertising on Facebook and Instagram
+-----------
+
 Promotion of a contest post is the simplest form of reaching the target group of your choice with your message. Thanks to it, you will direct the message primarily to people who may be interested in your brand and its products, so it is worth using this option.
 
 What budget should be allocated to the promotion of the competition? It all depends on how difficult the task is - the higher the entry threshold, the more difficult it will be for Facebook to gain user activity, which will translate directly into cost-per-result.
 
 2 Information in own brand media
+-----------
+
 Inform about the competition in all your own media, e.g. on your blog, newsletter, website or social media other than the one in which it is organized. In communication, emphasize the benefits of the participants and show the prizes, and the recipients of the content will not remain indifferent.
 
 If you have a brick-and-mortar store or are a restaurant, prepare posters or leaflets informing you that the competition is ongoing and where to find it. You can put a QR code on them, which, after scanning with a smartphone, will take the interested person directly to the page with the competition.
 
 3 Groups and pages devoted to contests
+-----------
+
 On Facebook you will find at least a dozen groups where you can share information about your competition. There are also special pages dedicated solely to distributing contests and connecting participants and organizers.
 
 It sounds great, but remember that they are used mainly by people who take part in several dozen contests a month, the so-called contestants. It is almost certain that they will not become your customers later, because you are one of the many options for them to get giveaways. Their activity will, of course, help you increase your reach and commitment, but the winners are best chosen from those who have previously participated in the website or do not take part in all possible games of this type.
 
 4 Cooperation with an influencer
+-----------
+
 Do you want the competition to have really large ranges and bring you even more benefits? Organize it in cooperation with an influencer who will help you prepare a game involving his community in activities related to your brand.
 
 You can conduct the competition both on your own social media and those belonging to the influencer. In the case of such cooperation, it is worth taking care of really attractive and valuable prizes that will even more motivate participants to take part in the game.
@@ -113,6 +121,8 @@ You can conduct the competition both on your own social media and those belongin
 Of course, you will need two documents prepared by a lawyer: the rules of the competition in social media and a cooperation agreement with an influencer specifying your mutual obligations.
 
 5 Legible, clear information on the graphics in the competition post
+-----------
+
 The preparation of appropriate graphics will also help to increase the interest in the competition. In addition to an interesting photo or illustration in the background, include a clearly visible and legible word Competition on it. You can also mention or show the awards. The point is that the user who finds the competition photo during scrolling, immediately knows what it is about and devotes a longer time to this content - and maybe even immediately took part in the game.
 
 How to choose prizes for a competition in social media and how to distribute them to participants?
