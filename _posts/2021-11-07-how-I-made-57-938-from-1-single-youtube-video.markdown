@@ -16,7 +16,7 @@ But first, I'll stop talking for a second. Here's screenshot proof:
 
 That's just from one video, by the way. One source of revenue, over $57k.
 
-<img src="{{site.baseurl}}/images/posts/desks/yt-views-watermarkk.jpg">
+<img src="{{site.baseurl}}/images/posts/desks/yt-views-watermark.jpg">
 
 Now, let's talk about how I did it... but first, we need to dispel some common myths.
 
