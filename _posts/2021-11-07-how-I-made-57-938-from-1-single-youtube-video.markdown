@@ -10,7 +10,6 @@ shares: 847
 What's up, guys. I've been doing this for a long time, and finally decided to make a post for the newbies out there who want to learn more and get a better life.
 
 But first, I'll stop talking for a second. Here's screenshot proof:
------------
 
 <img src="{{site.baseurl}}/images/posts/desks/paid-earnings-watermark.jpg">
 
