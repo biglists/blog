@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "COMPETITIONS IN SOCIAL MEDIA - HOW TO ORGANIZE AND PROMOTE COMPETITIONS ON FACEBOOK OR INSTAGRAM?"
+title:  "[GUIDE]: How I Made $57,938 from 1 Single YouTube Video [2021]"
 date:   2021-11-05 12:02:58 +0200
 categories: sales
-image: /images/posts/competition-social-media.jpg
-shares: 1112
+image: /images/posts/money-making-machine.jpg
+shares: 847
 ---
 
 What's up, guys. I've been doing this for a long time, and finally decided to make a post for the newbies out there who want to learn more and get a better life.
@@ -12,11 +12,13 @@ What's up, guys. I've been doing this for a long time, and finally decided to ma
 But first, I'll stop talking for a second. Here's screenshot proof:
 -----------
 
+<img src="{{site.baseurl}}/images/posts/desks/paid-earnings-watermark.jpg">
 
 That's just from one video, by the way. One source of revenue, over $57k.
 
-Now, let's talk about how I did it... but first, we need to dispel some common myths.
+<img src="{{site.baseurl}}/images/posts/desks/yt-views-watermarkk.jpg">
 
+Now, let's talk about how I did it... but first, we need to dispel some common myths.
 
 3 Biggest LIES About Making Money With YouTube
 -----------
