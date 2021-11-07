@@ -71,9 +71,9 @@ Myth #3 - YouTube is Hard to Rank
 Now, here's another big myth. One reason people stay away from YouTube is because they think it's hard to get views and/or rank. This is only true if you don't know what you're doing.
 
 90% of ranking on YT comes down to three things:
-KILLER Thumbnail
-Great Title & Tags
-Engaging Content
+* KILLER Thumbnail
+* Great Title & Tags
+* Engaging Content
 That's it. If you can master these three things, YouTube will basically give you free traffic. My video has been getting 1,000+ views/day for months now, and while this might not be the "viral video" that people want, it's better to have steady income than a spurt of $3k here and there.
 
 
@@ -83,9 +83,11 @@ How I Did It (3 Steps)
 Alright, now onto the good part. Let's talk about the 3-step process I used to create this video, and start making money while I sleep.
 
 Here they are:
-Find A Profitable, Low Competition Niche
-Find A Good Affiliate Program
-Record, Edit, & Upload The Video
+
+* Find A Profitable, Low Competition Niche
+* Find A Good Affiliate Program
+* Record, Edit, & Upload The Video
+
 That's it. It's not that hard once you get the hang of it, and you can easily keep doing the same thing over and over once you figure out how to do it.
 
 With that in mind, let's talk a little bit more in-depth about how to do this, though.
@@ -106,3 +108,65 @@ While 1,000 may not seem like a lot, in reality, it's going to be a LOT MORE tha
 It shows that 1,000 people are searching for "best gaming desks" each month, but that's not including 600 people searching "best desks for gaming setups" or other people searching for specific gaming desk reviews, which your video can rank for.
 
 Long story short, find a keyword that's getting less than 5,000 searches/month for that specific keyword on YouTube, and then go from there.
+
+Step #2 - Find A Profitable Affiliate Program
+-----------
+
+Depending on your niche, you may want to spend some time researching affiliate programs. A good way to do this is simply google your keyword, and see who is promoting which sites.
+
+If the top 3 results for example, all promote a specific affiliate, it's a good bet that they're the best converting and best paying affiliate.
+
+A word of caution, though: be VERY careful here. I have been ripped off over $100,000 from affiliates in the past, because I didn't do my homework. ALWAYS TEST AFFILIATES!
+
+Anyways, there's basically two types of affiliates:
+
+* Company Direct
+* General Seller
+
+Depending on your niche, either one can work. The first example, would be like a specific company that sells gaming desks. The advantage of this is they usually give you a higher commission rate, like 15% or 20% or even up to 50% if you give them a lot of sales.
+
+The second option for affiliates, would be a general seller, most notably Amazon. The downside of this is they only give you a 5% commission (on average), but the benefit is that you get that 5% of commission on everything they buy, plus Amazon has a VERY high conversion rate.
+
+Step #3 - Record, Edit, & Upload The Video
+-----------
+
+Here's the most important part. You need the video to be ENGAGING, otherwise people will just click away and watch some other video.
+
+Here's my 3-step process for creating an engaging video:
+
+* Open With STRONG Hook/Proof
+* Show Authority/Credibility
+* Answer Their Questions
+
+That's basically it. So, if you're reviewing the top gaming desks, for example, open with a strong statement like: "Hey guys, it's John Doe from Best Gaming Desks (dot) com, and after trying out 15 different gaming desks, here are the top three."
+
+With an opener like that, there's no way somebody couldn't keep watching. It establishes a strong hook (you're going to give them the best gaming desks), and establishes authority (brand name YT channel, and you've tested a ton of desks before).
+
+Then, just answer their questions, and put links to the affiliate in the description. When done right, you can make some serious BANK using this method, because it specifically targets the people who are LOOKING to buy! This is why "review" videos are so powerful. They capture someone at the end of the sales funnel, who's already a hot prospect.
+
+For the thumbnail, make it eye-catching. Avoid using more than 3 words, and try to copy what the top 3-5 videos are doing when you search for your keyword.
+
+You can also use a tag extractor tool (I use this one) to see which tags your competitors are putting in their videos. Just use their exact same tags, and pull some extra LSI tags from Ahrefs.
+
+
+Conclusion
+-----------
+
+The bottom line is that anyone can do this method. Yes, it's a lot harder than typical methods, because it requires you actually record a video and do some research, but in my opinion, this is the only type of thing that will ever actually yield good long term results.
+
+Anything that's too easy is not going to make you money, for exactly that reason. It's too easy. Everyone's already doing it, so your competition is through the roof.
+
+Basically, it just comes down to four steps:
+
+* Find A Profitable Niche
+* Sign Up For An Affiliate
+* Promote w/ Engaging YouTube Video
+* Profit
+
+As I said before, be careful with certain affiliates. Sign up for whichever one the top 3 search results are promoting, because it's most likely that they're the best one (otherwise the top 3 people wouldn't be promoting them).
+
+Create an engaging video that actually HELPS the viewer make an informed decision, and then they'll be 1,000x more likely to actually buy the product you recommend.
+
+I hope the image attachments work, because it looks like they're glitching out for some reason, but maybe the mods can help with that.
+
+Anyways guys, I hope you enjoyed my post, and if you have any questions, be sure to let me know in the comments section and I'll give you a reply.
