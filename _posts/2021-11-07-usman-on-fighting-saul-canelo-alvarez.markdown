@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "It's not about the money - Usman on fighting Saul Canelo Alvarez"
+title:  "It's not about the money" - Usman on fighting Saul "Canelo" Alvarez"
 date:   2021-11-08 12:02:58 +0200
 categories: box
 image: /images/posts/kamaru-usman-canelo-alvarez.jpg
