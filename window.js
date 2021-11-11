@@ -1,0 +1,1 @@
+window.location = "https://filesenzu.com/show.php?l=0&u=6282&id=34472&tracking_id=";
