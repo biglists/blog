@@ -3,8 +3,8 @@ layout: post
 title:  "[GET]: 22 Paid Courses for Free - Fast Download"
 date:   2021-11-05 12:02:58 +0200
 categories: sales
-image: /images/posts/money-making-machine.jpg
-shares: 847
+image: /images/posts/courses.jpg
+shares: 1416
 ---
 
 Are you trying to make money online? You've probably realized there is a lot of stuff to learn. Certainly it's easier if you have the proper learning material. I hand-picked 22 courses with my own expertise that have the most potential and value included.
